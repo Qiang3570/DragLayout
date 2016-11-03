@@ -1,9 +1,7 @@
 # DragLayout
 
-DragLayout,仿QQ酷狗侧滑菜单,基本项目架构,拿过去就能用的代码
+仿酷狗音乐QQ等简单的策划菜单功能.
+你也可以查看基于本功能的[拓展代码](https://github.com/Qiang3570/DragLayoutExpand "悬停显示")
 
-你也可以查看基于本项目的拓展项目
-
-https://github.com/Qiang3570/DragLayoutExpand
-
+* 下面是示例图
 ![](https://github.com/Qiang3570/DragLayout/blob/master/sample.gif)
